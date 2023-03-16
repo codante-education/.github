@@ -1,1 +1,1 @@
-# .github
+# Bem vindo ao Codante Education!
