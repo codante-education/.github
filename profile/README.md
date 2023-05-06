@@ -1,4 +1,4 @@
-# <img src="https://s3-sa-east-1.amazonaws.com/codante/img/logo/mail-logo.png" data-canonical-src="https://s3-sa-east-1.amazonaws.com/codante/img/logo/mail-logo.png" width="200" />
+# <img src="https://s3-sa-east-1.amazonaws.com/codante/img/logo/logo-bg-dark-round.png" data-canonical-src="https://s3-sa-east-1.amazonaws.com/codante/img/logo/logo-bg-dark-round.png" width="300" />
 
 ✨ **Evolua na programação front-end** ✨
 
