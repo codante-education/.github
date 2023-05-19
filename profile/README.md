@@ -6,4 +6,8 @@ Fuja dos mesmos cursos e tutoriais de sempre e aprimore suas skills em programa�
 
 ### Nosso Roadmap do Produto
 
-Já falamos que somos e sempre seremos open-source, certo? Se quiser conferir no que estamos trabalhando - e o que está nos empolgando - dá uma olhada no nosso [public roadmap de produto](https://github.com/orgs/codante-io/projects/2).
+Já falamos que somos e sempre seremos open-source, certo? Se quiser conferir no que estamos trabalhando - e o que está nos empolgando - dá uma olhada no nosso [**Public Roadmap de Produto**](https://github.com/orgs/codante-io/projects/2).
+
+### Nosso Roadmap de Conteúdo
+
+Também publicamos nossas ideias de novas _trilhas_, _workshops_ e _mini-projetos_ aqui no [**Public Roadmap de Conteúdo**](https://github.com/orgs/codante-io/projects/2/views/1)
