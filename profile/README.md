@@ -10,4 +10,4 @@ Já falamos que somos e sempre seremos open-source, certo? Se quiser conferir no
 
 ### Nosso Roadmap de Conteúdo
 
-Também publicamos nossas ideias de novas _trilhas_, _workshops_ e _mini-projetos_ aqui no [**Public Roadmap de Conteúdo**](https://github.com/orgs/codante-io/projects/2/views/1)
+Também publicamos nossas ideias de novas _trilhas_, _workshops_ e _mini-projetos_ aqui no [**Public Roadmap de Conteúdo**](https://github.com/orgs/codante-io/projects/2/views/2)
